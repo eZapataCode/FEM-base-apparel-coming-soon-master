@@ -192,6 +192,10 @@ body {
         background-color: transparent;
         color: $desaturated-red;
 
+        &::placeholder {
+            color: $desaturated-red;
+        }
+
         @media screen and (min-width: $medium) {
             font-size: $medium-device-paragraph-size;
         }
