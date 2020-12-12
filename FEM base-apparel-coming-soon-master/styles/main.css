@@ -197,6 +197,10 @@ body {
   color: #ce9797;
 }
 
+.form__input::placeholder {
+  color: #ce9797;
+}
+
 @media screen and (min-width: 768px) {
   .form__input {
     font-size: 18px;
