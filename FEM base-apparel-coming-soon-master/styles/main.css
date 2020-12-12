@@ -245,7 +245,7 @@ body {
 }
 
 .form__submit::after {
-  content: url("images/icon-arrow.svg");
+  content: url("../images/icon-arrow.svg");
 }
 
 .form__submit:active {
